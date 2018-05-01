@@ -19,7 +19,7 @@ Quotient: 2
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
-#include "intal_ArbitaryLength.h"
+#include "intal.h"
 
 int main(int argc, char const *argv[]) {
 	char str1[100] = "4999";
